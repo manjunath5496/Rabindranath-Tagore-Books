@@ -101,7 +101,7 @@
 </tr>
 <tr>
 <th scope="row">Signature</th>
-<td><a class="image" href="Rabindranath_Tagore_Signature.svg"><img src="Rabindranath_Tagore_Signature.svg.png" srcset="Rabindranath_Tagore_Signature.svg.png" alt="Close-up on a Bengali word handwritten with angular, jaunty letters." width="160" height="43" data-file-width="221" data-file-height="59" /></a></td>
+<td><a class="image" href="Rabindranath_Tagore_Signature.svg"><img src="1920px-Rabindranath_Tagore_Signature.svg.png" srcset="1920px-Rabindranath_Tagore_Signature.svg.png" alt="Close-up on a Bengali word handwritten with angular, jaunty letters." width="160" height="43" data-file-width="221" data-file-height="59" /></a></td>
 </tr>
 </tbody>
 </table>
